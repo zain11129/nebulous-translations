@@ -40,21 +40,21 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Content rating of the app may change when finding groups."</string>
 
-    <string name="_Rank_">" Rank "</string>
-    <string name="_Alias_">" Alias "</string>
-    <string name="_Score_">" Score "</string>
-    <string name="Score__">"Score: "</string>
-    <string name="Recombine_">"Recombine: "</string>
+    <string name="_Rank_">" Rank:"</string>
+    <string name="_Alias_">" Alias:"</string>
+    <string name="_Score_">" Score:"</string>
+    <string name="Score__">"Score:"</string>
+    <string name="Recombine_">"Recombine:"</string>
     <string name="WINNER_">"WINNER:"</string>
     <string name="IDLE">"IDLE"</string>
     <string name="Name_Invalid_">"Name invalid."</string>
     <string name="Name_Taken_">"Name taken."</string>
-    <string name="CONNECTED">"CONNECTED"</string>
+    <string name="CONNECTED">"CONNECTED:"</string>
     <string name="JOINING___">"JOINING…"</string>
-    <string name="PLAYING">"PLAYING"</string>
+    <string name="PLAYING">"PLAYING:"</string>
     <string name="MULTIPLAYER">"MULTIPLAYER"</string>
 
-    <string name="JOIN">"JOIN"</string>
+    <string name="JOIN">"JOIN:"</string>
 
 
     <string name="Lobby_Name">"Lobby Name"</string>
